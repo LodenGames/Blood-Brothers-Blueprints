@@ -9,3 +9,5 @@ Grenade Overlap
 ----------------------------------------------------------------------------------------------------------------------
 Player Lean Logic
 ![BP Player Lean Logic](https://github.com/the-fishy/Blood-Brothers-Blueprints/blob/main/bp_lean_logic.png?raw=true)
+
+You can play the demo here: https://fishystudio.itch.io/blood-brothers-demo-v100

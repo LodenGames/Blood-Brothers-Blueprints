@@ -10,4 +10,4 @@ Grenade Overlap
 Player Lean Logic
 ![BP Player Lean Logic](https://github.com/LodenGames/Blood-Brothers-Blueprints/blob/main/bp_lean_logic.png?raw=true)
 
-You can play the demo here: https://LodenGames.itch.io/blood-brothers-demo-v100
+You can play the demo here: [https://LodenGames.itch.io/blood-brothers-demo-v100](https://loden-games.itch.io/blood-brothers-demo-v100)

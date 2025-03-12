@@ -1,5 +1,5 @@
-# Revenge Request-Blueprints
-Some of the blueprints I created for my Blood Brothers game
+# Revenge Request Blueprints
+Some of the blueprints I created for Revenge Request
 
 Grenade Begin Play
 ![Grenade Begin Play](https://github.com/LodenGames/Blood-Brothers-Blueprints/blob/main/bp_grenade_begin.png?raw=true)

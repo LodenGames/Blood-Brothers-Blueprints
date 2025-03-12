@@ -1,5 +1,5 @@
 # Revenge Request Blueprints
-Some of the blueprints I created for Revenge Request
+Some of the blueprints I created for my Unreal Engine game Revenge Request.
 
 Grenade Begin Play
 ![Grenade Begin Play](https://github.com/LodenGames/Blood-Brothers-Blueprints/blob/main/bp_grenade_begin.png?raw=true)
